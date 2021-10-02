@@ -290,3 +290,18 @@ https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCSlightlyOff.us" tvg-name="AMC Slightly Off" tvg-logo="https://i.imgur.com/yngqRL8.png", AMC Slightly Off (1080p)
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnowfear.png", Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d20ef2189b2698a380ff2/900", Fear This! Classics
+https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnowscifi.png",Fear This! Sci-Fi
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png", AMC HD
+http://client.ksporttv.com:88/ledjonmurati/h1uuuqWJMTm3TdNZ/45211?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png", A&E HD
+http://s16tv.co:80/freebox_548682/jbasHNZd/138047?checkedby:iptvcat.com
